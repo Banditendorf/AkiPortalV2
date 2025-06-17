@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711348499093",
+    "project_id": "aki-portal-f3900",
+    "storage_bucket": "aki-portal-f3900.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711348499093:android:028a9dcf2cb251e265619c",
+        "android_client_info": {
+          "package_name": "com.example.akiportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifHLbW9qy4lZOo5UEf5KCX2C3CfHr1Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
